@@ -1,0 +1,156 @@
+PS C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890> python dictionary_test_script.py $PWD trie $PWD/data_generation/data500.txt $PWD/data_generation/test500.in            
+
+BUILD lasted 0.0016398000298067927 seconds
+ADD lasted 3.5999692045152187e-06 seconds
+ADD lasted 2.5999615900218487e-06 seconds
+ADD lasted 2.2999593056738377e-06 seconds
+ADD lasted 1.1100026313215494e-05 seconds
+DELETE lasted 2.400018274784088e-06 seconds
+DELETE lasted 2.800021320581436e-06 seconds
+DELETE lasted 2.2999593056738377e-06 seconds
+DELETE lasted 1.400010660290718e-06 seconds
+SEARCH lasted 1.100008375942707e-06 seconds
+SEARCH lasted 1.700012944638729e-06 seconds
+SEARCH lasted 1.500011421740055e-06 seconds
+SEARCH lasted 1.300009898841381e-06 seconds
+AUTOCOMPLETE lasted 1.9000144675374031e-06 seconds
+AUTOCOMPLETE lasted 1.179997343569994e-05 seconds
+AUTOCOMPLETE lasted 5.200039595365524e-06 seconds
+AUTOCOMPLETE lasted 1.300009898841381e-06 seconds
+
+SUMMARY: dictionary_file_based.py has passed 1 out of 1 tests.
+PASSED: test500
+FAILED: 
+
+Runtime: 0.05648339999606833 seconds for 'trie' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data500.txt'
+----------------------------------------------------------------------------------------------------------------------
+PS C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890> python dictionary_test_script.py $PWD trie $PWD/data_generation/data1000.txt $PWD/data_generation/test1000.in
+
+BUILD lasted 0.0034282999695278704 seconds
+ADD lasted 3.900029696524143e-06 seconds
+ADD lasted 1.9000144675374031e-06 seconds
+ADD lasted 2.2999593056738377e-06 seconds
+ADD lasted 1.880002673715353e-05 seconds
+DELETE lasted 2.400018274784088e-06 seconds
+DELETE lasted 3.400025889277458e-06 seconds
+DELETE lasted 2.900022082030773e-06 seconds
+DELETE lasted 2.300017513334751e-06 seconds
+SEARCH lasted 1.200009137392044e-06 seconds
+SEARCH lasted 1.800013706088066e-06 seconds
+SEARCH lasted 1.7999554984271526e-06 seconds
+SEARCH lasted 1.3999524526298046e-06 seconds
+AUTOCOMPLETE lasted 2.200016751885414e-06 seconds
+AUTOCOMPLETE lasted 1.6700010746717453e-05 seconds
+AUTOCOMPLETE lasted 6.699992809444666e-06 seconds
+AUTOCOMPLETE lasted 1.400010660290718e-06 seconds
+
+SUMMARY: dictionary_file_based.py has passed 1 out of 1 tests.
+PASSED: test1000
+FAILED: 
+
+Runtime: 0.05973939999239519 seconds for 'trie' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data1000.txt'
+----------------------------------------------------------------------------------------------------------------------
+PS C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890> python dictionary_test_script.py $PWD trie $PWD/data_generation/data5000.txt $PWD/data_generation/test5000.in
+
+BUILD lasted 0.0139004000229761 seconds
+ADD lasted 4.200031980872154e-06 seconds
+ADD lasted 2.900022082030773e-06 seconds
+ADD lasted 3.1999661587178707e-06 seconds
+ADD lasted 1.3399985618889332e-05 seconds
+DELETE lasted 2.600019797682762e-06 seconds
+DELETE lasted 2.5999615900218487e-06 seconds
+DELETE lasted 3.300025127828121e-06 seconds
+DELETE lasted 2.200016751885414e-06 seconds
+SEARCH lasted 1.600012183189392e-06 seconds
+SEARCH lasted 2.300017513334751e-06 seconds
+SEARCH lasted 1.9000144675374031e-06 seconds
+SEARCH lasted 2.300017513334751e-06 seconds
+AUTOCOMPLETE lasted 2.700020559132099e-06 seconds
+AUTOCOMPLETE lasted 3.9300008211284876e-05 seconds
+AUTOCOMPLETE lasted 7.499998901039362e-06 seconds
+AUTOCOMPLETE lasted 2.100015990436077e-06 seconds
+
+SUMMARY: dictionary_file_based.py has passed 1 out of 1 tests.
+PASSED: test5000
+FAILED:
+
+Runtime: 0.09117359999800101 seconds for 'trie' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data5000.txt'
+----------------------------------------------------------------------------------------------------------------------
+PS C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890> python dictionary_test_script.py $PWD trie $PWD/data_generation/data10000.txt $PWD/data_generation/test10000.in
+
+BUILD lasted 0.029402799962554127 seconds
+ADD lasted 4.499976057559252e-06 seconds
+ADD lasted 2.800021320581436e-06 seconds
+ADD lasted 2.9999646358191967e-06 seconds
+ADD lasted 1.1999974958598614e-05 seconds
+DELETE lasted 2.300017513334751e-06 seconds
+DELETE lasted 3.300025127828121e-06 seconds
+DELETE lasted 3.0999653972685337e-06 seconds
+DELETE lasted 2.0999577827751637e-06 seconds
+SEARCH lasted 1.500011421740055e-06 seconds
+SEARCH lasted 2.400018274784088e-06 seconds
+SEARCH lasted 1.800013706088066e-06 seconds
+SEARCH lasted 1.800013706088066e-06 seconds
+AUTOCOMPLETE lasted 2.800021320581436e-06 seconds
+AUTOCOMPLETE lasted 1.969997538253665e-05 seconds
+AUTOCOMPLETE lasted 6.999995093792677e-06 seconds
+AUTOCOMPLETE lasted 1.800013706088066e-06 seconds
+
+SUMMARY: dictionary_file_based.py has passed 1 out of 1 tests.
+PASSED: test10000
+FAILED: 
+
+Runtime: 0.10961060004774481 seconds for 'trie' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data10000.txt'
+----------------------------------------------------------------------------------------------------------------------
+PS C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890> python dictionary_test_script.py $PWD trie $PWD/data_generation/data50000.txt $PWD/data_generation/test50000.in
+
+BUILD lasted 0.2807318000122905 seconds
+ADD lasted 5.100038833916187e-06 seconds
+ADD lasted 3.700028173625469e-06 seconds
+ADD lasted 4.200031980872154e-06 seconds
+ADD lasted 7.199996616691351e-06 seconds
+DELETE lasted 2.800021320581436e-06 seconds
+DELETE lasted 3.700028173625469e-06 seconds
+DELETE lasted 4.00003045797348e-06 seconds
+DELETE lasted 4.400033503770828e-06 seconds
+SEARCH lasted 1.8999562598764896e-06 seconds
+SEARCH lasted 2.4999608285725117e-06 seconds
+SEARCH lasted 3.00002284348011e-06 seconds
+SEARCH lasted 2.00001522898674e-06 seconds
+AUTOCOMPLETE lasted 2.7999631129205227e-06 seconds
+AUTOCOMPLETE lasted 0.0007824000203981996 seconds
+AUTOCOMPLETE lasted 1.0999967344105244e-05 seconds
+AUTOCOMPLETE lasted 3.5999692045152187e-06 seconds
+
+SUMMARY: dictionary_file_based.py has passed 1 out of 1 tests.
+PASSED: test50000
+FAILED: 
+
+Runtime: 0.5721643000142649 seconds for 'trie' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data50000.txt'
+----------------------------------------------------------------------------------------------------------------------
+PS C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890> python dictionary_test_script.py $PWD trie $PWD/data_generation/data100000.txt $PWD/data_generation/test100000.in
+
+BUILD lasted 0.5166727000032552 seconds
+ADD lasted 4.100031219422817e-06 seconds
+ADD lasted 4.8999791033566e-06 seconds
+ADD lasted 3.7999707274138927e-06 seconds
+ADD lasted 7.700000423938036e-06 seconds
+DELETE lasted 3.700028173625469e-06 seconds
+DELETE lasted 3.300025127828121e-06 seconds
+DELETE lasted 3.5999692045152187e-06 seconds
+DELETE lasted 2.900022082030773e-06 seconds
+SEARCH lasted 2.800021320581436e-06 seconds
+SEARCH lasted 3.8000289350748062e-06 seconds
+SEARCH lasted 2.8999638743698597e-06 seconds
+SEARCH lasted 2.100015990436077e-06 seconds
+AUTOCOMPLETE lasted 2.900022082030773e-06 seconds
+AUTOCOMPLETE lasted 0.0020158999832347035 seconds
+AUTOCOMPLETE lasted 1.0100018698722124e-05 seconds
+AUTOCOMPLETE lasted 3.700028173625469e-06 seconds
+
+SUMMARY: dictionary_file_based.py has passed 1 out of 1 tests.
+PASSED: test100000
+FAILED:
+
+Runtime: 1.0937637999886647 seconds for 'trie' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data100000.txt'
+----------------------------------------------------------------------------------------------------------------------

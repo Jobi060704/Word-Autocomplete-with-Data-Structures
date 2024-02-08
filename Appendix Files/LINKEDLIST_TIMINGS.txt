@@ -1,0 +1,158 @@
+Runtime: 0.06855739996535704 seconds for 'array' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data10000.txt'
+PS C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890> python dictionary_test_script.py $PWD linkedlist $PWD/data_generation/data500.txt $PWD/data_generation/test500.in 
+
+BUILD lasted 0.00014640000881627202 seconds
+ADD lasted 3.819999983534217e-05 seconds
+ADD lasted 6.099988240748644e-06 seconds
+ADD lasted 3.550003748387098e-05 seconds
+ADD lasted 4.650000482797623e-05 seconds
+DELETE lasted 3.1400006264448166e-05 seconds
+DELETE lasted 1.4099990949034691e-05 seconds
+DELETE lasted 2.7099973522126675e-05 seconds
+DELETE lasted 2.989999484270811e-05 seconds
+SEARCH lasted 2.859998494386673e-05 seconds
+SEARCH lasted 3.100023604929447e-06 seconds
+SEARCH lasted 2.6899971999228e-05 seconds
+SEARCH lasted 2.789997961372137e-05 seconds
+AUTOCOMPLETE lasted 5.7800032664090395e-05 seconds
+AUTOCOMPLETE lasted 5.370000144466758e-05 seconds
+AUTOCOMPLETE lasted 5.269999383017421e-05 seconds
+AUTOCOMPLETE lasted 5.0499977078288794e-05 seconds
+
+SUMMARY: dictionary_file_based.py has passed 1 out of 1 tests.
+PASSED: test500
+FAILED: 
+
+Runtime: 0.05522989999735728 seconds for 'linkedlist' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data500.txt'
+----------------------------------------------------------------------------------------------------------------------
+PS C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890> python dictionary_test_script.py $PWD linkedlist $PWD/data_generation/data1000.txt $PWD/data_generation/test1000.in
+
+BUILD lasted 0.0002280999906361103 seconds
+ADD lasted 7.720000576227903e-05 seconds
+ADD lasted 2.789997961372137e-05 seconds
+ADD lasted 4.199997056275606e-05 seconds
+ADD lasted 7.449998520314693e-05 seconds
+DELETE lasted 6.210000719875097e-05 seconds
+DELETE lasted 7.499998901039362e-06 seconds
+DELETE lasted 4.800001624971628e-05 seconds
+DELETE lasted 6.089999806135893e-05 seconds
+SEARCH lasted 6.059999577701092e-05 seconds
+SEARCH lasted 1.999997766688466e-05 seconds
+SEARCH lasted 3.6299985367804766e-05 seconds
+SEARCH lasted 6.009999196976423e-05 seconds
+AUTOCOMPLETE lasted 0.00010720000136643648 seconds
+AUTOCOMPLETE lasted 0.00010409997776150703 seconds
+AUTOCOMPLETE lasted 0.00010210002074018121 seconds
+AUTOCOMPLETE lasted 9.940000018104911e-05 seconds
+
+SUMMARY: dictionary_file_based.py has passed 1 out of 1 tests.
+PASSED: test1000
+FAILED: 
+
+Runtime: 0.05490839999401942 seconds for 'linkedlist' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data1000.txt'
+----------------------------------------------------------------------------------------------------------------------
+PS C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890> python dictionary_test_script.py $PWD linkedlist $PWD/data_generation/data5000.txt $PWD/data_generation/test5000.in
+
+BUILD lasted 0.0012462000013329089 seconds
+ADD lasted 0.00045549997594207525 seconds
+ADD lasted 1.5300000086426735e-05 seconds
+ADD lasted 0.0003657999914139509 seconds
+ADD lasted 0.0004501999937929213 seconds
+DELETE lasted 0.00037910003447905183 seconds
+DELETE lasted 0.00019300001440569758 seconds
+DELETE lasted 0.0001784000196494162 seconds
+DELETE lasted 0.0002997000119648874 seconds
+SEARCH lasted 0.0003201999934390187 seconds
+SEARCH lasted 8.339999476447701e-05 seconds
+SEARCH lasted 0.0002858999650925398 seconds
+SEARCH lasted 0.00029579998226836324 seconds
+AUTOCOMPLETE lasted 0.0005597000126726925 seconds
+AUTOCOMPLETE lasted 0.0005289000109769404 seconds
+AUTOCOMPLETE lasted 0.0005165000329725444 seconds
+AUTOCOMPLETE lasted 0.0005095999804325402 seconds
+
+SUMMARY: dictionary_file_based.py has passed 1 out of 1 tests.
+PASSED: test5000
+FAILED:
+
+Runtime: 0.06617840001126751 seconds for 'linkedlist' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data5000.txt'
+----------------------------------------------------------------------------------------------------------------------
+SEARCH lasted 8.339999476447701e-05 seconds
+PS C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890> python dictionary_test_script.py $PWD linkedlist $PWD/data_generation/data10000.txt $PWD/data_generation/test10000.in
+
+BUILD lasted 0.0025254999636672437 seconds
+ADD lasted 0.0008276000153273344 seconds
+ADD lasted 0.0003779000253416598 seconds
+ADD lasted 0.00038949999725446105 seconds
+ADD lasted 0.0006871999939903617 seconds
+DELETE lasted 0.0005890000029467046 seconds
+DELETE lasted 0.00019799999427050352 seconds
+DELETE lasted 0.0005628999788314104 seconds
+DELETE lasted 0.0005893000052310526 seconds
+SEARCH lasted 0.0005539000267162919 seconds
+SEARCH lasted 0.00011929997708648443 seconds
+SEARCH lasted 0.0005328000406734645 seconds
+SEARCH lasted 0.0005500999977812171 seconds
+AUTOCOMPLETE lasted 0.00100460002431646 seconds
+AUTOCOMPLETE lasted 0.0010164999985136092 seconds
+AUTOCOMPLETE lasted 0.0009968000231310725 seconds
+AUTOCOMPLETE lasted 0.0009841000428423285 seconds
+
+SUMMARY: dictionary_file_based.py has passed 1 out of 1 tests.
+PASSED: test10000
+FAILED: 
+
+Runtime: 0.07521310000447556 seconds for 'linkedlist' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data10000.txt'
+----------------------------------------------------------------------------------------------------------------------
+PS C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890> python dictionary_test_script.py $PWD linkedlist $PWD/data_generation/data50000.txt $PWD/data_generation/test50000.in
+
+BUILD lasted 0.015376599971204996 seconds
+ADD lasted 0.003600900003220886 seconds
+ADD lasted 0.001124100002925843 seconds
+ADD lasted 0.0039058999973349273 seconds
+ADD lasted 0.003809700021520257 seconds
+DELETE lasted 0.0029894000035710633 seconds
+DELETE lasted 0.0013764000032097101 seconds
+DELETE lasted 0.0030067000188864768 seconds
+DELETE lasted 0.0029691000236198306 seconds
+SEARCH lasted 0.002849399985279888 seconds
+SEARCH lasted 0.0006775000365450978 seconds
+SEARCH lasted 0.0024861000129021704 seconds
+SEARCH lasted 0.0030738000059500337 seconds
+AUTOCOMPLETE lasted 0.005842300015501678 seconds
+AUTOCOMPLETE lasted 0.005933899956289679 seconds
+AUTOCOMPLETE lasted 0.005371299979742616 seconds
+AUTOCOMPLETE lasted 0.005202100030146539 seconds
+
+SUMMARY: dictionary_file_based.py has passed 1 out of 1 tests.
+PASSED: test50000
+FAILED: 
+
+Runtime: 0.16790950001450256 seconds for 'linkedlist' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data50000.txt'
+----------------------------------------------------------------------------------------------------------------------
+PS C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890> python dictionary_test_script.py $PWD linkedlist $PWD/data_generation/data100000.txt $PWD/data_generation/test100000.in
+
+BUILD lasted 0.03852940001524985 seconds
+ADD lasted 0.00776810001116246 seconds
+ADD lasted 0.004138599964790046 seconds
+ADD lasted 0.005449899996165186 seconds
+ADD lasted 0.008116999990306795 seconds
+DELETE lasted 0.006727800006046891 seconds
+DELETE lasted 0.003062899981159717 seconds
+DELETE lasted 0.004805199976544827 seconds
+DELETE lasted 0.006551200000103563 seconds
+SEARCH lasted 0.006542899995110929 seconds
+SEARCH lasted 0.0018715999904088676 seconds
+SEARCH lasted 0.005983500042930245 seconds
+SEARCH lasted 0.007027600018773228 seconds
+AUTOCOMPLETE lasted 0.010765200015157461 seconds
+AUTOCOMPLETE lasted 0.011344200000166893 seconds
+AUTOCOMPLETE lasted 0.010739499994087964 seconds
+AUTOCOMPLETE lasted 0.010171999980229884 seconds
+
+SUMMARY: dictionary_file_based.py has passed 1 out of 1 tests.
+PASSED: test100000
+FAILED:
+
+Runtime: 0.3073827999760397 seconds for 'linkedlist' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data100000.txt'
+----------------------------------------------------------------------------------------------------------------------

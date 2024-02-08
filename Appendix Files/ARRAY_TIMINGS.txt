@@ -1,0 +1,157 @@
+PS C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890> python dictionary_test_script.py $PWD array $PWD/data_generation/data500.txt $PWD/data_generation/test500.in
+
+BUILD lasted 2.069998299703002e-05 seconds
+ADD lasted 1.899997005239129e-05 seconds
+ADD lasted 1.850002445280552e-05 seconds
+ADD lasted 1.810002140700817e-05 seconds
+ADD lasted 1.7599959392100573e-05 seconds
+DELETE lasted 1.9499973859637976e-05 seconds
+DELETE lasted 1.3899989426136017e-05 seconds
+DELETE lasted 2.5999965146183968e-05 seconds
+DELETE lasted 1.3000040780752897e-05 seconds
+SEARCH lasted 1.3199984095990658e-05 seconds
+SEARCH lasted 1.800013706088066e-06 seconds
+SEARCH lasted 1.2599979527294636e-05 seconds
+SEARCH lasted 1.260003773495555e-05 seconds
+AUTOCOMPLETE lasted 3.940000897273421e-05 seconds
+AUTOCOMPLETE lasted 3.4999975468963385e-05 seconds
+AUTOCOMPLETE lasted 3.4699973184615374e-05 seconds
+AUTOCOMPLETE lasted 3.3100019209086895e-05 seconds
+
+SUMMARY: dictionary_file_based.py has passed 1 out of 1 tests.
+PASSED: test500
+FAILED: 
+
+Runtime: 0.05339980003191158 seconds for 'array' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data500.txt'
+----------------------------------------------------------------------------------------------------------------------
+PS C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890> python dictionary_test_script.py $PWD array $PWD/data_generation/data1000.txt $PWD/data_generation/test1000.in
+
+BUILD lasted 4.0599959902465343e-05 seconds
+ADD lasted 5.9999991208314896e-05 seconds
+ADD lasted 4.080001963302493e-05 seconds
+ADD lasted 3.539997851476073e-05 seconds
+ADD lasted 5.089998012408614e-05 seconds
+DELETE lasted 3.390002530068159e-05 seconds
+DELETE lasted 9.7999582067132e-06 seconds
+DELETE lasted 5.509995389729738e-05 seconds
+DELETE lasted 3.15000070258975e-05 seconds
+SEARCH lasted 3.170000854879618e-05 seconds
+SEARCH lasted 1.109996810555458e-05 seconds
+SEARCH lasted 1.9300030544400215e-05 seconds
+SEARCH lasted 3.0499999411404133e-05 seconds
+AUTOCOMPLETE lasted 9.529996896162629e-05 seconds
+AUTOCOMPLETE lasted 8.570001227781177e-05 seconds
+AUTOCOMPLETE lasted 8.260004688054323e-05 seconds
+AUTOCOMPLETE lasted 8.040003012865782e-05 seconds
+
+SUMMARY: dictionary_file_based.py has passed 1 out of 1 tests.
+PASSED: test1000
+FAILED: 
+
+Runtime: 0.05853619996923953 seconds for 'array' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data1000.txt'
+----------------------------------------------------------------------------------------------------------------------
+PS C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890> python dictionary_test_script.py $PWD array $PWD/data_generation/data5000.txt $PWD/data_generation/test5000.in
+
+BUILD lasted 0.00020080001559108496 seconds
+ADD lasted 0.00021850003395229578 seconds
+ADD lasted 0.00021719996584579349 seconds
+ADD lasted 0.00021379999816417694 seconds
+ADD lasted 0.0002120999852195382 seconds
+DELETE lasted 0.00015680002979934216 seconds
+DELETE lasted 0.00017339998157694936 seconds
+DELETE lasted 0.00018800003454089165 seconds
+DELETE lasted 0.00012179999612271786 seconds
+SEARCH lasted 0.00012779998360201716 seconds
+SEARCH lasted 3.589998232200742e-05 seconds
+SEARCH lasted 0.00012169999536126852 seconds
+SEARCH lasted 0.00012279994552955031 seconds
+AUTOCOMPLETE lasted 0.00040110002737492323 seconds
+AUTOCOMPLETE lasted 0.0004122000536881387 seconds
+AUTOCOMPLETE lasted 0.00034820003202185035 seconds
+AUTOCOMPLETE lasted 0.00032350001856684685 seconds
+
+SUMMARY: dictionary_file_based.py has passed 1 out of 1 tests.
+PASSED: test5000
+FAILED:
+
+Runtime: 0.06649499997729436 seconds for 'array' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data5000.txt'
+----------------------------------------------------------------------------------------------------------------------
+Runtime: 0.05339980003191158 seconds for 'array' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data500.txt'
+PS C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890> python dictionary_test_script.py $PWD array $PWD/data_generation/data10000.txt $PWD/data_generation/test10000.in
+
+BUILD lasted 0.00039250002009794116 seconds
+ADD lasted 0.000354600022546947 seconds
+ADD lasted 0.0003480999730527401 seconds
+ADD lasted 0.00034499994944781065 seconds
+ADD lasted 0.00033820001408457756 seconds
+DELETE lasted 0.00024449999909847975 seconds
+DELETE lasted 0.0001886999816633761 seconds
+DELETE lasted 0.0005315999733284116 seconds
+DELETE lasted 0.00027630000840872526 seconds
+SEARCH lasted 0.0003106000367552042 seconds
+SEARCH lasted 5.400000372901559e-05 seconds
+SEARCH lasted 0.00025919999461621046 seconds
+SEARCH lasted 0.00024349999148398638 seconds
+AUTOCOMPLETE lasted 0.0006495999987237155 seconds
+AUTOCOMPLETE lasted 0.0006599999614991248 seconds
+AUTOCOMPLETE lasted 0.0006472999812103808 seconds
+AUTOCOMPLETE lasted 0.0006243999814614654 seconds
+
+SUMMARY: dictionary_file_based.py has passed 1 out of 1 tests.
+PASSED: test10000
+FAILED: 
+
+Runtime: 0.06855739996535704 seconds for 'array' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data10000.txt'
+----------------------------------------------------------------------------------------------------------------------
+PS C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890> python dictionary_test_script.py $PWD array $PWD/data_generation/data50000.txt $PWD/data_generation/test50000.in
+
+BUILD lasted 0.002105600025970489 seconds
+ADD lasted 0.0017715999856591225 seconds
+ADD lasted 0.0017460999661125243 seconds
+ADD lasted 0.0018051000079140067 seconds
+ADD lasted 0.001712600002065301 seconds
+DELETE lasted 0.0012496999697759748 seconds
+DELETE lasted 0.0013206999865360558 seconds
+DELETE lasted 0.0028446000069379807 seconds
+DELETE lasted 0.0012194000300951302 seconds
+SEARCH lasted 0.0014336000313051045 seconds
+SEARCH lasted 0.00037640001391991973 seconds
+SEARCH lasted 0.0010852999985218048 seconds
+SEARCH lasted 0.0011969999759458005 seconds
+AUTOCOMPLETE lasted 0.0032361000194214284 seconds
+AUTOCOMPLETE lasted 0.003343600023072213 seconds
+AUTOCOMPLETE lasted 0.0032672000234015286 seconds
+AUTOCOMPLETE lasted 0.0035600000410340726 seconds
+
+SUMMARY: dictionary_file_based.py has passed 1 out of 1 tests.
+PASSED: test50000
+FAILED: 
+
+Runtime: 0.12870300002396107 seconds for 'array' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data50000.txt'
+----------------------------------------------------------------------------------------------------------------------
+PS C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890> python dictionary_test_script.py $PWD array $PWD/data_generation/data100000.txt $PWD/data_generation/test100000.in
+
+BUILD lasted 0.004109499976038933 seconds
+ADD lasted 0.0038942000246606767 seconds
+ADD lasted 0.0035586999729275703 seconds
+ADD lasted 0.0035518999793566763 seconds
+ADD lasted 0.004239299974869937 seconds
+DELETE lasted 0.0027055999962612987 seconds
+DELETE lasted 0.002989600005093962 seconds
+DELETE lasted 0.004116900032386184 seconds
+DELETE lasted 0.0035447999835014343 seconds
+SEARCH lasted 0.002877800026908517 seconds
+SEARCH lasted 0.0006910000229254365 seconds
+SEARCH lasted 0.002388899971265346 seconds
+SEARCH lasted 0.0027628999669104815 seconds
+AUTOCOMPLETE lasted 0.006603199988603592 seconds
+AUTOCOMPLETE lasted 0.006897600018419325 seconds
+AUTOCOMPLETE lasted 0.0067013000370934606 seconds
+AUTOCOMPLETE lasted 0.007166700030211359 seconds
+
+SUMMARY: dictionary_file_based.py has passed 1 out of 1 tests.
+PASSED: test100000
+FAILED:
+
+Runtime: 0.20691020000958815 seconds for 'array' and 'C:\Users\User\Desktop\Algorithms and Analysis\SUBMISSION\Assign1-s12345-s67890/data_generation/data100000.txt'
+----------------------------------------------------------------------------------------------------------------------
